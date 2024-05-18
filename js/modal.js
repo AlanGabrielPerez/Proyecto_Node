@@ -23,7 +23,7 @@ modal.innerHTML=`
                 <button type="submit" class="btn-form" >Acceder</button>
             </div>
         </form>
-         <!-- <hr>
+          <!-- <hr>
           <h2 class="fs-5">Registrarse</h2>
           <p> ¿No estas registrado? <a href="registro.html" data-bs-toggle="tooltip" title="Tooltip">Registrate.</a> </p>
         </div> -->
